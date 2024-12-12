@@ -83,7 +83,8 @@ Me chamo Marlon Marques, tenho 26 anos e sou natural de Lagoa da Prata - MG. Est
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="188" 
+      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarquesss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
