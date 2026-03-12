@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Marlon Marques
+#  Marlon Marques
 
 **`Desenvolvedor front-end`**
 
