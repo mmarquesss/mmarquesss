@@ -1,10 +1,8 @@
 #  Marlon Marques
 
-**`Desenvolvedor front-end`**
+**`Enginner Software |Developer | Salesforce`**
 
-Me chamo Marlon Marques, tenho 26 anos e sou natural de Lagoa da Prata - MG. Estou cursando o curso bacharel em Engenharia de Software e me especializando em front-end fullstack.
-
-
+Sou Marlon Marques, graduando em Engenharia de Software (5° semestre) com sólida experiência no setor de e-commerce. Atuei tanto em projetos pessoais quanto na prestação de serviços para empresas, desenvolvendo uma visão estratégica sobre o mercado digital e vendas online. Atualmente, foco meu aprimoramento profissional no ecossistema Salesforce, dedicando-me a estudos avançados e à busca de certificações na plataforma. Sou fluente em espanhol e movido por novos desafios, sempre com uma postura proativa para o aprendizado contínuo e o crescimento mútuo.
   
    <a href="https://github.com/mmarquesss?tab=repositories&sort=stargazers">
         <img 
@@ -24,65 +22,7 @@ Me chamo Marlon Marques, tenho 26 anos e sou natural de Lagoa da Prata - MG. Est
 
 ---
 
-### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mmarquesss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
       height="180" 
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarquesss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
